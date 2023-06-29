@@ -11,6 +11,8 @@ _*It was at the age of 27 that I wanted to change my profession and occupation, 
 _*This course is my first programming experience.*_
 # Code example
 _*A function that returns the multiplication of the arguments*_
+```
 function multiply(a, b){
-  return a * b
+  return a * b;
 }
+```
