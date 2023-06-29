@@ -16,3 +16,6 @@ function multiply(a, b){
   return a * b;
 }
 ```
+# Project
+[_*My first CV*_]:
+* https://richfpl.github.io/rsschool-cv/cv
