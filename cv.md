@@ -19,3 +19,6 @@ function multiply(a, b){
 # Project :
 [_*My first CV*_]:
 * https://richfpl.github.io/rsschool-cv/cv
+# Languages :
+* _Russian_
+* _English_S
