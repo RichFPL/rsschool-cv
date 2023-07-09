@@ -92,3 +92,23 @@ body {
     font-style: italic;
     font-size: 20px;
 }
+.logo-pic {
+    width: 50px;
+    height: 50px;
+}
+.logo-container {
+    position:absolute;
+    left: 630px;
+}
+.git-pictures {
+    width: 90px;
+    height: 70px;
+}
+.git-pic {
+    position: absolute;
+    left: 700px;
+}
+.year {
+    font-size: 14px;
+    font-style: italic;
+}
