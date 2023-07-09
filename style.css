@@ -1,16 +1,89 @@
-html, body {
-    font-family: Arial, serif;
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #ECE4CD;
+  }
+  img {
+    position: relative;
+    top: 5px;
+    left: 30px;
+    width: 300px;
+    height: 300px;
+    border-radius : 50%;
+  }
+  h1 {
+    font-size: 32px;
+    font-weight: bold;
+    font-style: normal;
+    font-family: 'Roboto';
+  }
+  .about-name {
     font-size: 16px;
-    margin: 0;
-    padding: 0;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .block-name {
+    position: absolute;
+    left: 400px;
+    top: 90px;
+  }
+  .header-contacts {
+    position: absolute;
+    left: 1100px;
+    top: 2px;
+  }
+  .phone-1 {
+    font-family: 'Roboto' solid;
+    font-size: 24px;
+  }
+  .number {
+    font-style: italic;
+  }
+  .name-mail {
+    font-style: italic;
+  }
+.telegram-name {
+    font-style: italic;
 }
-table {
-    border-collapse: collapse;
+.discord-name {
+    font-style: italic;
 }
-table.border td, table.border th {
-    padding: 5px;
-    border: 1px solid #c0c0c0;
+.about-name {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 32px;
+    font-weight: bold;
+    font-style: normal;
 }
-table.border th {
-    background: #e0e0e0;
+.text-about {
+    font-style: italic;
+    font-size: 20px;
+}
+.skills-text {
+    font-style: italic;
+    font-size:20px;
+}
+.code-text {
+    font-style: italic;
+    font-size: 20px;
+}
+.code-name {
+    font-style: italic;
+    font-size: 20px;
+}
+.first-cv {
+    font-style: italic;
+    font-size: 20px;
+}
+.decoration-none {
+    text-decoration: none;
+    font-size: 20px;
+}
+.russian {
+    font-style: italic;
+    font-size: 20px;
+}
+.english {
+    font-style: italic;
+    font-size: 20px;
 }
