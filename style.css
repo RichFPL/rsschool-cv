@@ -1,0 +1,114 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #ECE4CD;
+    margin: 2px;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+ justify-content: space-between;
+  }
+  img {
+    position: relative;
+    top: 5px;
+    left: 30px;
+    width: 300px;
+    height: 300px;
+    border-radius : 50%;
+  }
+  h1 {
+    font-size: 32px;
+    font-weight: bold;
+    font-style: normal;
+    font-family: 'Roboto';
+  }
+  .about-name {
+    font-size: 16px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .block-name {
+    position: absolute;
+    left: 400px;
+    top: 90px;
+  }
+  .header-contacts {
+    position: absolute;
+    left: 1100px;
+    top: 2px;
+  }
+  .phone-1 {
+    font-family: 'Roboto' solid;
+    font-size: 24px;
+  }
+  .number {
+    font-style: italic;
+  }
+  .name-mail {
+    font-style: italic;
+  }
+.telegram-name {
+    font-style: italic;
+}
+.discord-name {
+    font-style: italic;
+}
+.about-name {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 32px;
+    font-weight: bold;
+    font-style: normal;
+}
+.text-about {
+    font-style: italic;
+    font-size: 20px;
+}
+.skills-text {
+    font-style: italic;
+    font-size:20px;
+}
+.code-text {
+    font-style: italic;
+    font-size: 20px;
+}
+.code-name {
+    font-style: italic;
+    font-size: 20px;
+}
+.first-cv {
+    font-style: italic;
+    font-size: 20px;
+}
+.decoration-none {
+    text-decoration: none;
+    font-size: 20px;
+}
+.russian {
+    font-style: italic;
+    font-size: 20px;
+}
+.english {
+    font-style: italic;
+    font-size: 20px;
+}
+.logo-pic {
+    width: 50px;
+    height: 50px;
+}
+.logo-container {
+    position:absolute;
+    left: 630px;
+}
+.git-pictures {
+    width: 90px;
+    height: 70px;
+}
+.git-pic {
+    position: absolute;
+    left: 700px;
+}
+.year {
+    font-size: 14px;
+    font-style: italic;
+}
